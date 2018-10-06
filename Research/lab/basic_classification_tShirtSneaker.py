@@ -32,9 +32,9 @@ train_images = train_images / 255.0
 
 test_images = test_images / 255.0
 
-plt.figure(figsize=(10,10))
+plt.figure(figsize=(10, 10))
 for i in range(25):
-    plt.subplot(5,5,i+1)
+    plt.subplot(5, 5, i + 1)
     plt.xticks([])
     plt.yticks([])
     plt.grid(False)
@@ -63,7 +63,6 @@ print(predictions[0])
 print(np.argmax(predictions[0]))
 
 print(test_labels[0])
-
 
 
 def plot_image(i, predictions_array, true_label, img):
@@ -98,12 +97,13 @@ def plot_value_array(i, predictions_array, true_label):
     thisplot[predicted_label].set_color('red')
     thisplot[true_label].set_color('blue')
 
+
 i = 0
-plt.figure(figsize=(6,3))
-plt.subplot(1,2,1)
+plt.figure(figsize=(6, 3))
+plt.subplot(1, 2, 1)
 plot_image(i, predictions, test_labels, test_images)
-plt.subplot(1,2,2)
-plot_value_array(i, predictions,  test_labels)
+plt.subplot(1, 2, 2)
+plot_value_array(i, predictions, test_labels)
 
 # Grab an image from the test dataset
 img = test_images[0]
@@ -111,7 +111,7 @@ img = test_images[0]
 print(img.shape)
 
 # Add the image to a batch where it's the only member.
-img = (np.expand_dims(img,0))
+img = (np.expand_dims(img, 0))
 
 print(img.shape)
 
@@ -122,6 +122,6 @@ print(predictions_single)
 plot_value_array(0, predictions_single, test_labels)
 _ = plt.xticks(range(10), class_names, rotation=45)
 
-
 result = np.argmax(predictions_single[0])
 print(result)
+plt.show()
