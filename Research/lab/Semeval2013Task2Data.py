@@ -20,9 +20,8 @@ for line in open(sys.argv[1]):
 	#url = 'http://twitter.com/%s/status/%s' % (uid, sid)
 	#print url
 
-    tweet = None
+        tweet = None
 	text = "Not Available"
-
 	if cache.has_key(sid):
 		text = cache[sid]
 	else:

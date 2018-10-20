@@ -4,29 +4,47 @@ from tensorflow import keras
 
 import numpy as np
 
-print(tf.__version__)
+print("VERSION : ", tf.__version__)
 
 imdb = keras.datasets.imdb
-
+# print("================IMDB DATA =====================================")
+# print(imdb.load_data)
+# print("===============================================================")
 (train_data, train_labels), (test_data, test_labels) = imdb.load_data(num_words=10000)
-
+# print("=============== TRAIN DATA ====================================")
+# print(train_data)
+# print("===============================================================")
+# print("=============== TRAIN LABELS ====================================")
+# print(train_labels)
+# print("===============================================================")
+# print("=============== TEST DATA ====================================")
+# print(test_data)
+# print("===============================================================")
+# print("=============== TEST LABELS ====================================")
+# print(test_labels)
+# print("===============================================================")
+#
+# print("=============== OVERVIEW ======================================")
+# print((train_data, train_labels), (test_data, test_labels))
+# print("===============================================================")
 # print("Training entries: {}, labels: {}".format(len(train_data), len(train_labels)))
 
-# print(train_data[0])
-# len(train_data[0]), len(train_data[1])
-#
 # # A dictionary mapping words to an integer index
 word_index = imdb.get_word_index()
-print(word_index)
+# print("============== IMDB get word index ===========================")
+# print(word_index)
+# print("===============================================================")
+# print(word_index)
 # # The first indices are reserved
 word_index = {k:(v+3) for k,v in word_index.items()}
+print(word_index)
 word_index["<PAD>"] = 0
 word_index["<START>"] = 1
 word_index["<UNK>"] = 2  # unknown
 word_index["<UNUSED>"] = 3
 #
 reverse_word_index = dict([(value, key) for (key, value) in word_index.items()])
-print(reverse_word_index)
+# print(reverse_word_index)
 # def decode_review(text):
 #     return ' '.join([reverse_word_index.get(i, '?') for i in text])
 # decode_review(train_data[0])
