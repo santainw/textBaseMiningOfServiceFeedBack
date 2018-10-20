@@ -3,6 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="2628b986-e75d-45f3-924d-8a27e1d1d58e" name="Default" comment="">
 <<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/Chulk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jsonn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MesgBoard03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MesgeBoard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MessageBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MessageBoard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Messageboard02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Naive Bayes For test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Naive Bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomForest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SVM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestingPro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partofs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_classification_tShirtSneaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_classification_tShirtSneaker.py" afterDir="false" />
+=======
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic_classicification_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_classicification_text.py" afterDir="false" />
 =======
@@ -10,6 +33,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +42,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
+<<<<<<< HEAD
+    <session id="638688627">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="3" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="20" />
+=======
 <<<<<<< HEAD
     <session id="-1392078532">
       <usages-collector id="statistics.lifecycle.project">
@@ -38,40 +81,87 @@
           <entry key="project.open.time.29" value="1" />
           <entry key="project.opened" value="1" />
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
 <<<<<<< HEAD
+          <entry key="Python Console" value="49" />
+          <entry key="html" value="148" />
+          <entry key="py" value="6481" />
+=======
+<<<<<<< HEAD
           <entry key="py" value="654" />
 =======
           <entry key="py" value="1" />
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
 <<<<<<< HEAD
+          <entry key="HTML" value="148" />
+          <entry key="Python" value="6530" />
+=======
+<<<<<<< HEAD
           <entry key="Python" value="654" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
+          <entry key="html" value="1" />
+          <entry key="py" value="19" />
+=======
           <entry key="py" value="7" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+=======
           <entry key="Python" value="7" />
 =======
           <entry key="Python" value="1" />
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
         </counts>
       </usages-collector>
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Nature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/st.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+=======
 <<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DeepLearning1.py">
@@ -90,23 +180,40 @@
               <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding />
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/imdb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+=======
         <entry file="file://$PROJECT_DIR$/basic_classification_tShirtSneaker.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2057">
               <caret line="126" column="13" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
               <folding>
-                <element signature="e#26#49#0" expanded="true" />
+                <element signature="e#0#14#0" expanded="true" />
               </folding>
 >>>>>>> 9363869dcc4b7f01ad09ba8280058a1eaacb8b8b
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MesgeBoard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+=======
 <<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
 =======
@@ -121,11 +228,27 @@
               <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chulk.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Naive Bayes For test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1538815702724" expanded="true" signature="427:429" ph="..." />
+=======
 <<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial_plotGraph.py">
@@ -142,6 +265,7 @@
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
               </folding>
             </state>
           </provider>
@@ -149,32 +273,64 @@
       </file>
 <<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SVM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+=======
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testNumpy.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Naive Bayes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="42" selection-start-column="42" selection-end-column="42" />
+=======
         <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/numpy/core/fromnumeric.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="16388">
               <caret line="975" column="4" selection-start-line="975" selection-start-column="4" selection-end-line="975" selection-end-column="4" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/RandomForest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+=======
         <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/matplotlib/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2057">
               <caret line="155" selection-start-line="155" selection-end-line="155" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jsonn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1538402312689" expanded="true" signature="36:38" ph="..." />
+              </folding>
+=======
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basic_classicification_text.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -207,6 +363,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
               <caret line="35" column="62" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
             </state>
           </provider>
         </entry>
@@ -216,10 +373,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>r.text</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+=======
 <<<<<<< HEAD
   <component name="FindInProjectRecents">
     <findStrings>
@@ -229,6 +396,7 @@
 =======
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
   <component name="Git.Settings">
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -240,6 +408,34 @@
         <option value="$PROJECT_DIR$/basic_classicification_text.py" />
         <option value="$PROJECT_DIR$/tutorial_plotGraph.py" />
         <option value="$PROJECT_DIR$/basic_classification_tShirtSneaker.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/Test01.py" />
+        <option value="$PROJECT_DIR$/nltk.py" />
+        <option value="$PROJECT_DIR$/DeepLearning1.py" />
+        <option value="$PROJECT_DIR$/Nature.py" />
+        <option value="$PROJECT_DIR$/st.py" />
+        <option value="$PROJECT_DIR$/partofs.py" />
+        <option value="$PROJECT_DIR$/MessageBoard.html" />
+        <option value="$PROJECT_DIR$/MessageBoard.py" />
+        <option value="$PROJECT_DIR$/Messageboard02.py" />
+        <option value="$PROJECT_DIR$/imdb.py" />
+        <option value="$PROJECT_DIR$/TestingPro.py" />
+        <option value="$PROJECT_DIR$/SVM.py" />
+        <option value="$PROJECT_DIR$/Naive Bayes.py" />
+        <option value="$PROJECT_DIR$/RandomForest.py" />
+        <option value="$PROJECT_DIR$/MesgBoard03.py" />
+        <option value="$PROJECT_DIR$/MesgeBoard.py" />
+        <option value="$PROJECT_DIR$/Jsonn.py" />
+        <option value="$PROJECT_DIR$/Naive Bayes For test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+=======
 =======
         <option value="$PROJECT_DIR$/tutorial_plotGraph.py" />
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
@@ -282,12 +478,14 @@
   </component>
 =======
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,12 +497,21 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+=======
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -319,6 +526,10 @@
     </option>
   </component>
 <<<<<<< HEAD
+  <component name="RunManager" selected="Python.Naive Bayes For test">
+    <configuration name="Jsonn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.basic_classicification_text">
 =======
 <<<<<<< HEAD
@@ -328,6 +539,7 @@
 >>>>>>> 9363869dcc4b7f01ad09ba8280058a1eaacb8b8b
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
     <configuration name="DeepLearning1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
       <module name="lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,7 +551,32 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jsonn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MesgeBoard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MesgeBoard.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning1.py" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,7 +585,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="Naive Bayes For test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
     <configuration name="basic_classicification_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
       <module name="lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,7 +601,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Naive Bayes For test.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_classicification_text.py" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,7 +614,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="TestingPro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
     <configuration name="basic_classification_tShirtSneaker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
       <module name="lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,7 +630,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_classification_tShirtSneaker.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestingPro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -390,6 +640,46 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="imdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imdb.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_classification_tShirtSneaker.py" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <list>
+      <item itemvalue="Python.TestingPro" />
+      <item itemvalue="Python.imdb" />
+      <item itemvalue="Python.MesgeBoard" />
+      <item itemvalue="Python.Jsonn" />
+      <item itemvalue="Python.Naive Bayes For test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Naive Bayes For test" />
+        <item itemvalue="Python.Jsonn" />
+        <item itemvalue="Python.TestingPro" />
+        <item itemvalue="Python.MesgeBoard" />
+        <item itemvalue="Python.imdb" />
+=======
     <configuration name="testNumpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -478,6 +768,7 @@
         <item index="4" class="java.lang.String" itemvalue="Python.tutorial_plotGraph" />
 >>>>>>> 9363869dcc4b7f01ad09ba8280058a1eaacb8b8b
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
       </list>
     </recent_temporary>
   </component>
@@ -495,6 +786,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35790598" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49583334" visible="true" weight="0.25410733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36659437" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49947312" weight="0.32952183" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052685" side_tool="true" weight="0.32952183" />
+=======
 <<<<<<< HEAD
     <frame x="60" y="-8" width="1314" height="784" extended-state="6" />
     <editor active="true" />
@@ -530,6 +839,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.5057283" />
       <window_info anchor="bottom" id="Python Console" order="10" />
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -542,7 +852,10 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/python/client/session.py" />
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/python/keras/backend.py" />
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/python/keras/utils/generic_utils.py" />
@@ -557,13 +870,20 @@
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/python/keras/callbacks.py" />
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/python/keras/datasets/mnist.py" />
 <<<<<<< HEAD
+    <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/__init__.py" />
+=======
+<<<<<<< HEAD
 =======
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/__init__.py" />
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/keras/__init__.py" />
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/python/keras/datasets/fashion_mnist.py" />
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/keras/datasets/fashion_mnist/__init__.py" />
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/keras/datasets/__init__.py" />
+<<<<<<< HEAD
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/h5py/__init__.py">
+=======
 <<<<<<< HEAD
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/__init__.py" />
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/matplotlib/cbook/__init__.py">
@@ -577,21 +897,86 @@
           </folding>
 =======
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/python/client/session.py">
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="1388" column="0" lean-forward="false" selection-start-line="1388" selection-start-column="0" selection-end-line="1388" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="561">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/python/keras/backend.py">
+    <entry file="file://$PROJECT_DIR$/nltk.py" />
+    <entry file="file://$PROJECT_DIR$/DeepLearning1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="2915" column="0" lean-forward="false" selection-start-line="2915" selection-start-column="0" selection-end-line="2915" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Messageboard02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="32" column="48" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_classification_tShirtSneaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBoard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBoard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partofs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1191">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Naive Bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MesgBoard03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <marker date="1538400788751" expanded="true" signature="785:788" ph="..." />
+=======
     <entry file="file://$USER_HOME$/.virtualenvs/lab/Lib/site-packages/tensorflow/python/keras/utils/generic_utils.py">
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
       <provider selected="true" editor-type-id="text-editor">
@@ -614,10 +999,29 @@
           <caret line="126" column="13" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
           <folding>
             <element signature="e#26#49#0" expanded="true" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/imdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/st.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+=======
     <entry file="file://$PROJECT_DIR$/basic_regression.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -650,10 +1054,19 @@
 >>>>>>> 4892e97a8bfcf027aa520033ce0517c9c4e71b8a
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Nature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+=======
     <entry file="file://$PROJECT_DIR$/testNumpy.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -665,12 +1078,60 @@
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#26#49#0" expanded="true" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearning1.py">
+    <entry file="file://$PROJECT_DIR$/Jsonn.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1538402312689" expanded="true" signature="36:38" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingPro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="66" column="33" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+          <folding>
+            <marker date="1538398555830" expanded="true" signature="2379:2992" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomForest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MesgeBoard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chulk.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Naive Bayes For test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1538815702724" expanded="true" signature="427:429" ph="..." />
+=======
         <state relative-caret-position="61">
           <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
 =======
@@ -708,6 +1169,7 @@
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
+>>>>>>> a20aaa68c8f342ed9c329678ad9eea8f19f6a825
           </folding>
 >>>>>>> 9363869dcc4b7f01ad09ba8280058a1eaacb8b8b
         </state>
